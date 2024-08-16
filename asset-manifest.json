@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/HarmonyLotteryWebsite/static/css/main.f855e6bc.css",
+    "main.js": "/HarmonyLotteryWebsite/static/js/main.530858ed.js",
+    "static/js/453.4e12955f.chunk.js": "/HarmonyLotteryWebsite/static/js/453.4e12955f.chunk.js",
+    "index.html": "/HarmonyLotteryWebsite/index.html",
+    "main.f855e6bc.css.map": "/HarmonyLotteryWebsite/static/css/main.f855e6bc.css.map",
+    "main.530858ed.js.map": "/HarmonyLotteryWebsite/static/js/main.530858ed.js.map",
+    "453.4e12955f.chunk.js.map": "/HarmonyLotteryWebsite/static/js/453.4e12955f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.530858ed.js"
+  ]
+}
