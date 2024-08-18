@@ -5,7 +5,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        Harmony Lottery
+        Hold1 Bot
         <img src="./assets/qr-code.svg" alt="QR Code" width="200px"/>
         @HarmonyLotteryBot
       </header>
